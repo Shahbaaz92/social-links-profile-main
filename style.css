@@ -40,7 +40,9 @@ img {
 h1 {
   font-size: 24px;
   font-weight: 600;
+  margin-top: 5px;
 }
+
 article p {
   font-size: 14px;
   color: #c4f82a;
