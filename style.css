@@ -44,7 +44,7 @@ h1 {
 }
 
 article p {
-  margin-top: 4px;
+  margin-top: 5px;
   font-size: 14px;
   color: #c4f82a;
   font-weight: 700;
@@ -57,7 +57,7 @@ p {
   flex-direction: column;
   justify-content: space-evenly;
   align-items: center;
-  gap: 16px;
+  gap: 14px;
   width: 100%;
 }
 a {
